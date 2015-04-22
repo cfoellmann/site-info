@@ -1,10 +1,8 @@
 # Site Info
 > @todo
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/wp-cloud/site-info/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/wp-cloud/site-info/?branch=develop)
-[![GPL-3.0](http://img.shields.io/badge/license-GPL--3.0%2B-green.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
-
-[Stable Releases](https://github.com/wp-cloud/site-info/releases) | [Current Development (`develop` branch)](https://github.com/wp-cloud/site-info)
+[![GPL-3.0](http://img.shields.io/badge/license-GPL--3.0-green.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
+[![GitHub tag](https://img.shields.io/github/tag/wp-cloud/site-info.svg)](https://github.com/wp-cloud/site-info/releases)
 
 ## Features
 - @todo
